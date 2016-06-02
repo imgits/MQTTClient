@@ -1,0 +1,16 @@
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\bin\Debug\M2Mqtt.Net.dll
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient.csprojResolveAssemblyReference.cache
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MainWindow.g.cs
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\App.g.cs
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient_MarkupCompile.cache
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient_MarkupCompile.lref
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MainWindow.baml
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient.g.resources
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Properties.Resources.resources
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient.csproj.GenerateResource.Cache
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+C:\Users\RaphaelStamminger\Documents\C#_Projects\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
