@@ -24,8 +24,7 @@ namespace MQTTClient
     /// </summary>
     public partial class MainWindow : Window
     {
-        MqttClient client;
-        string nachricht;
+        MqttClient client;                      //MQTT Client
 
         public MainWindow()
         {
@@ -34,9 +33,9 @@ namespace MQTTClient
 
         private void btn_connect_Click(object sender, RoutedEventArgs e)
         {
-            String ipadress = tb_ipaddress.Text;
-            String port = tb_port.Text;
-            String clientId = tb_clientid.Text;
+            String ipadress = tb_ipaddress.Text;    //Get the ipaddress
+            String port = tb_port.Text;             //Get the port
+            String clientId = tb_clientid.Text;     //Get the clientid
 
             //Connect with the Client over IP-Address
             client = new MqttClient(IPAddress.Parse(ipadress));
@@ -71,14 +70,13 @@ namespace MQTTClient
         {
             String topic_get = tb_topic_get.Text;
 
-            // subscribe to the topic "/topic" with QoS 2
+            // subscribe to the topic "/topic" 
             client.Subscribe(new string[] { topic_get }, new byte[] { MqttMsgBase.QOS_LEVEL_EXACTLY_ONCE });
         }
 
         private void client_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e)
         {
-            //nachricht = Encoding.UTF8.GetString(e.Message);
-
+            //Writes the message into the Debug Line
             Debug.WriteLine("Received Data: " + Encoding.UTF8.GetString(e.Message));
         }
     }
